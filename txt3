@@ -17,7 +17,12 @@ class B extends A
   {  
   }  
 var b=new B();  
-b.display();  
- </script>   
+b.display(); 
+class C extends A
+{
+}
+   var obj= new C()
+  obj.display();
+  </script>   
 </body>
 </html>
