@@ -23,6 +23,8 @@ b.display();
 </html>
 <html> 
 
+
+
 <head>  
     <title>WebPage</title>  
 
@@ -77,6 +79,30 @@ b.display();
 </body>
 </html>
 class g extends A  
+  {  
+  }  
+var b=new B();  
+b.display();  
+ </script>   
+</body>
+</html>
+class k extends A  
+  {  
+  }  
+var b=new B();  
+b.display();  
+ </script>   
+</body>
+</html>
+class l extends A  
+  {  
+  }  
+var b=new B();  
+b.display();  
+ </script>   
+</body>
+</html>
+class m extends A  
   {  
   }  
 var b=new B();  
