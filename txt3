@@ -26,3 +26,20 @@ class C extends A
   </script>   
 </body>
 </html>
+class d extends A
+{
+}
+   var obj= new d()
+  obj.display();
+  </script>   
+</body>
+</html>
+class e extends A
+{
+}
+   var obj= new d()
+  obj.display();
+  </script>   
+</body>
+</html>
+
