@@ -21,3 +21,49 @@ b.display();
  </script>   
 </body>
 </html>
+<html>  
+<head>  
+    <title>WebPage</title>  
+
+<link href="style20.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+ <script>
+    class A  
+  {  
+     display()  
+    {  
+      document.writeln("A is invoked");  
+    }  
+  }  
+class c extends A  
+  {  
+  }  
+var b=new B();  
+b.display();  
+ </script>   
+</body>
+</html>
+<html>  
+<head>  
+    <title>WebPage</title>  
+
+<link href="style20.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+ <script>
+    class A  
+  {  
+     display()  
+    {  
+      document.writeln("A is invoked");  
+    }  
+  }  
+class d extends A  
+  {  
+  }  
+var b=new B();  
+b.display();  
+ </script>   
+</body>
+</html>
