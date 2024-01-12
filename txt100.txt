@@ -1,4 +1,0 @@
-printf()
-scanf()
-void()
-asdjfl jlkdf ajklfjlajldfjklasjd fljka
