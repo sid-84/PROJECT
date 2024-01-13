@@ -6,3 +6,8 @@
 
 "hello world"
 "welcome to java program"
+
+10+20=30
+10-5=5
+10*2=20
+10*3=30

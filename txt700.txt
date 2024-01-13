@@ -1,8 +1,15 @@
 "hello world"
 "welcome to java program"
+<<<<<<< HEAD
 
 "hello world"
 "welcome to java program"
 
 "hello world"
 "welcome to java program"
+=======
+100+200=300
+200-100=100
+20*10=200
+20/10=2
+>>>>>>> 8eef6b13019a0acd83a9fd23724a45c9493e0777
