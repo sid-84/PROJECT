@@ -1,5 +1,6 @@
 
-
+"hello world"
+"welcome to java program"
 "hello world"
 "welcome to java program"
 
@@ -38,5 +39,6 @@
 200*200=40000
 200-100=100
 200/100=2
-
+"hello world"
+"welcome to java program"
 
