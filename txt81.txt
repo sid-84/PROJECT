@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 
 "hello world"
 "welcome to java program"
@@ -49,3 +50,5 @@
 10*3=30
 
 
+=======
+>>>>>>> 6c2b4341cde6836f7bd2fd5fe9d7fcc03e36bac9
