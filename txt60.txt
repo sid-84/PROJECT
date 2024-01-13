@@ -25,3 +25,6 @@
 1000*10=10000
 1000/500=2
 
+"hello world"
+"welcome to java program"
+
