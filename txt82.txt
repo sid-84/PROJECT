@@ -1,5 +1,6 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 "hello world"
 "welcome to java program"
@@ -55,3 +56,5 @@
 200/100=2
 
 
+=======
+>>>>>>> d48f41efc7145ac1a17ae5510d67e0d820363cee
